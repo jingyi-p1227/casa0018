@@ -1,4 +1,4 @@
-# Project Idea: Edge-Based Multimodal Driver Fatigue Monitoring System
+# Project Idea: Driver Fatigue Monitoring System
 
 ## 1. Problem Domain
 The problem domain I am working on is **Driver Safety and In-Cabin Sensing**. Driver fatigue is a leading cause of traffic accidents. However, existing solutions often rely on cloud computing. Sending a live video feed of a driver's face to the cloud raises massive privacy concerns and suffers from latency issues (e.g., losing connection in a tunnel). Therefore, my goal is to build a completely offline, privacy-preserving driver monitoring system that runs entirely on the edge.
